@@ -20,27 +20,28 @@ A RESTful API for managing tasks and projects built with Node.js, Express, and M
 - Version Control: Git
 
 ## Experience
-- Software Engineer at Company X (2019 - Present)
+- Software Engineer at Company LG Soft India (2019 - 2022)
   - Developed and maintained backend services for a SaaS application used by thousands of users.
   - Collaborated with cross-functional teams to implement new features and enhance existing functionality.
   - Optimized database queries and improved system performance, resulting in a 30% reduction in response times.
   
-- Backend Developer at Company Y (2017 - 2019)
+<!-- - Backend Developer at Company Y (2017 - 2019)
   - Contributed to the development of a microservices architecture using Node.js and Express.
   - Implemented RESTful APIs and integrated third-party services for seamless user experiences.
-  - Conducted code reviews and mentored junior developers to improve code quality and knowledge sharing.
+  - Conducted code reviews and mentored junior developers to improve code quality and knowledge sharing. -->
 
 ## Education
-- Bachelor's Degree in Computer Science, University of ABC, Year
+- Bachelor's Degree in Information Science and Engineering, visvesvaraya technological university, 2018
+- Master in Computer Science,Woolf,2022-Present
 
 ## Contact Me
-📧 Email: jane.smith@example.com
-🌐 Website: [janesmith.com](https://www.janesmith.com)
-🐦 Twitter: [@janesmith](https://twitter.com/janesmith)
+📧 Email: sankhadip10.das@gmail.com
+🌐 Website: 
+🐦 Twitter: [@janesmith](https://twitter.com/rickydas25)
 
 ## Contributed Projects
-- [Project X](https://github.com/organization/project-x): Implemented caching strategies that reduced API response times by 50%.
-- [Project Y](https://github.com/organization/project-y): Designed and implemented a highly scalable message queuing system.
+<!-- - [Project X](https://github.com/organization/project-x): Implemented caching strategies that reduced API response times by 50%.
+- [Project Y](https://github.com/organization/project-y): Designed and implemented a highly scalable message queuing system. -->
 
 ## Let's Connect!
 I'm always interested in connecting with fellow developers and discussing exciting opportunities. If you have any questions, want to collaborate, or simply want to chat about technology, feel free to reach out to me!
