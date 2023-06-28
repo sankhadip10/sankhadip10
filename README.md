@@ -1,5 +1,7 @@
 # Hi, I'm Sankhadip Das! 👋
 
+<a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
+
 ## About Me
 I'm a passionate backend developer with over 3 years of professional experience. I specialize in building robust and scalable web applications using modern technologies. I enjoy tackling complex problems and delivering high-quality solutions.
 
