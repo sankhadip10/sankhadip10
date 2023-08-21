@@ -1,9 +1,5 @@
 # Hi, I'm Sankhadip Das! 👋
-<!--START_SECTION:activity-->
 
-<a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
-
-<!--END_SECTION:activity-->
 ## About Me
 I'm a passionate backend developer with over 3 years of professional experience. I specialize in building robust and scalable web applications using modern technologies. I enjoy tackling complex problems and delivering high-quality solutions.
 
@@ -41,7 +37,7 @@ A RESTful API for managing tasks and projects built with Node.js, Express, and M
 ## Contact Me
 📧 Email: sankhadip10.das@gmail.com
 🌐 Website: 
-🐦 Twitter: [@janesmith](https://twitter.com/rickydas25)
+🐦 Twitter: [@Sankhaad](https://twitter.com/Sankhaad)
 
 ## Contributed Projects
 <!-- - [Project X](https://github.com/organization/project-x): Implemented caching strategies that reduced API response times by 50%.
@@ -49,3 +45,9 @@ A RESTful API for managing tasks and projects built with Node.js, Express, and M
 
 ## Let's Connect!
 I'm always interested in connecting with fellow developers and discussing exciting opportunities. If you have any questions, want to collaborate, or simply want to chat about technology, feel free to reach out to me!
+
+<!--START_SECTION:activity-->
+
+<a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
+
+<!--END_SECTION:activity-->
