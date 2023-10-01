@@ -5,10 +5,10 @@ I'm a passionate backend developer with over 3 years of professional experience.
 
 ## Projects
 ### Project 1: E-commerce Platform
-An end-to-end e-commerce platform built with Django and React. It features user authentication, product catalog, shopping cart functionality, and secure payment integration. Check out the repository [here](https://github.com/your-username/ecommerce-platform).
+An end-to-end e-commerce platform built with Django and React. It features user authentication, product catalog, shopping cart functionality, and secure payment integration. Check out the repository [here](https://sankhadip10).
 
 ### Project 2: Task Management API
-A RESTful API for managing tasks and projects built with Node.js, Express, and MongoDB. It includes features like task assignment, deadlines, and notifications. Take a look at the repository [here](https://github.com/your-username/task-management-api).
+A RESTful API for managing tasks and projects built with Node.js, Express, and MongoDB. It includes features like task assignment, deadlines, and notifications. Take a look at the repository [here](https://github.com/sankhadip10).
 
 ## Skills
 - Programming Languages: Python, JavaScript
