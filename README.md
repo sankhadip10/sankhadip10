@@ -31,7 +31,7 @@ A RESTful API for managing tasks and projects built with Node.js, Express, and M
   - Conducted code reviews and mentored junior developers to improve code quality and knowledge sharing. -->
 
 ## Education
-- Bachelor's Degree in Information Science and Engineering, visvesvaraya technological university, 2018
+- Bachelor's Degree in Information Science and Engineering, Visvesvaraya technological university, 2018
 - Master in Computer Science,Woolf,2022-Present
 
 ## Contact Me
