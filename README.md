@@ -11,7 +11,7 @@ An end-to-end e-commerce platform built with Django and React. It features user 
 A RESTful API for managing tasks and projects built with Node.js, Express, and MongoDB. It includes features like task assignment, deadlines, and notifications. Take a look at the repository [here](https://github.com/sankhadip10).
 
 ## Skills
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python
 - Web Frameworks: Django, Flask, Express
 - Databases: PostgreSQL, MongoDB
 - RESTful APIs
