@@ -1,34 +1,38 @@
-# Hi, I'm Sankhadip Das! 👋
+<!-- Hi, I'm Sankhadip Das! 👋
 
 ## About Me
-I'm a passionate backend developer with over 3 years of professional experience. I specialize in building robust and scalable web applications using modern technologies. I enjoy tackling complex problems and delivering high-quality solutions.
+I'm a dedicated backend engineer with professional experience and a deep passion for software development.
+My expertise in Python, Django, and Flask is complemented by my work at LG Soft India and my ongoing Master's studies in Computer Science.
 
 ## Projects
-### Project 1: E-commerce Platform
-An end-to-end e-commerce platform built with Django and React. It features user authentication, product catalog, shopping cart functionality, and secure payment integration. Check out the repository [here](https://sankhadip10).
-
-### Project 2: Task Management API 
-A RESTful API for managing tasks and projects built with Node.js, Express, and MongoDB. It includes features like task assignment, deadlines, and notifications. Take a look at the repository [here](https://github.com/sankhadip10).
+### Challenge Tracker Bot
+A Discord bot for managing coding challenges, featuring event management, user registration, progress tracking, and data verification. [Repository]()
 
 ## Skills
-- Programming Languages: Python
-- Web Frameworks: Django, Flask, Express
-- Databases: PostgreSQL, MongoDB
-- RESTful APIs
-- Cloud Platforms: AWS, Heroku
-- Containerization: Docker
-- Version Control: Git
+- **Languages:** Python, Java
+- **Frameworks:** Django, Flask, Spring Boot
+- **Databases:** MySQL, MongoDB, Redis
+- **APIs:** RESTful, GraphQL
+- **Microservices:** Docker, Kubernetes
+- **Cloud:** Google Cloud Platform
+- **Tools:** Git, Jenkins, GitHub Actions
+- **Testing:** JUnit, Pytest, Jasmine
+
+<!--START_SECTION:activity-->
+
+<a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
+
+<!--END_SECTION:activity-->
 
 ## Experience
-- Software Engineer at Company LG Soft India (2019 - 2022)
-  - Developed and maintained backend services for a SaaS application used by thousands of users.
-  - Collaborated with cross-functional teams to implement new features and enhance existing functionality.
-  - Optimized database queries and improved system performance, resulting in a 30% reduction in response times.
-  
-<!-- - Backend Developer at Company Y (2017 - 2019)
-  - Contributed to the development of a microservices architecture using Node.js and Express.
-  - Implemented RESTful APIs and integrated third-party services for seamless user experiences.
-  - Conducted code reviews and mentored junior developers to improve code quality and knowledge sharing. -->
+- **LG Soft India (Dec 2020 - Jun 2022)**
+  - Developed a performance automation framework and a Windows application with PyQt.
+  - Automated 1000+ APIs using Jasmine for testing.
+
+- **Automation Engineer at Chhapolika & Company (Client: LG Soft India) (Aug 2019 - Dec 2020)**
+  - Contributed significantly to enhancing early bug detection and stability in consumer products.
+  - Championed best practices in software development, boosting efficiency and output quality.
+-->
 
 ## Education
 - Bachelor's Degree in Information Science and Engineering, Visvesvaraya technological university, 2018
@@ -39,9 +43,6 @@ A RESTful API for managing tasks and projects built with Node.js, Express, and M
 🌐 Website: 
 🐦 Twitter: [@Sankhaad](https://twitter.com/Sankhaad)
 
-## Contributed Projects
-<!-- - [Project X](https://github.com/organization/project-x): Implemented caching strategies that reduced API response times by 50%.
-- [Project Y](https://github.com/organization/project-y): Designed and implemented a highly scalable message queuing system. -->
 
 ## Let's Connect!
 I'm always interested in connecting with fellow developers and discussing exciting opportunities. If you have any questions, want to collaborate, or simply want to chat about technology, feel free to reach out to me!
