@@ -1,4 +1,4 @@
-<!-- Hi, I'm Sankhadip Das! 👋
+Hi, I'm Sankhadip Das! 👋
 
 ## About Me
 I'm a dedicated backend engineer with professional experience and a deep passion for software development.
@@ -17,7 +17,13 @@ A Discord bot for managing coding challenges, featuring event management, user r
 - **Cloud:** Google Cloud Platform
 - **Tools:** Git, Jenkins, GitHub Actions
 - **Testing:** JUnit, Pytest, Jasmine
-
+  
+## Articles read
+  <!--START_SECTION:activity-->
+  
+  <a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
+  
+  <!--END_SECTION:activity-->
 
 ## Experience
 - **LG Soft India (Dec 2020 - Jun 2022)**
@@ -35,15 +41,10 @@ A Discord bot for managing coding challenges, featuring event management, user r
 
 ## Contact Me
 📧 Email: sankhadip10.das@gmail.com
-🌐 Website: 
+🌐 Website: [sankhadip10](https://sankhadip10.github.io/)
 🐦 Twitter: [@Sankhaad](https://twitter.com/Sankhaad)
 
 
 ## Let's Connect!
 I'm always interested in connecting with fellow developers and discussing exciting opportunities. If you have any questions, want to collaborate, or simply want to chat about technology, feel free to reach out to me!
 
-<!--START_SECTION:activity-->
-
-<a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
-
-<!--END_SECTION:activity-->
