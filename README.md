@@ -6,7 +6,7 @@ My expertise in Python, Django, and Flask is complemented by my work at LG Soft 
 
 ## Projects
 ### Challenge Tracker Bot
-A Discord bot for managing coding challenges, featuring event management, user registration, progress tracking, and data verification. [Repository]()
+A Discord bot for managing coding challenges, featuring event management, user registration, progress tracking, and data verification. [Repository](https://github.com/SANKHADIP10/CHALLENGETRACKERBOT)
 
 ## Skills 
 - **Languages:** Python, Java
@@ -27,7 +27,7 @@ A Discord bot for managing coding challenges, featuring event management, user r
 - **Automation Engineer at Chhapolika & Company (Client: LG Soft India) (Aug 2019 - Dec 2020)**
   - Contributed significantly to enhancing early bug detection and stability in consumer products.
   - Championed best practices in software development, boosting efficiency and output quality.
--->
+
 
 ## Education
 - Bachelor's Degree in Information Science and Engineering, Visvesvaraya technological university, 2018
