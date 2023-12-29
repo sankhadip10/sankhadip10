@@ -33,6 +33,7 @@ A Discord bot for managing coding challenges, featuring event management, user r
 - **Automation Engineer at Chhapolika & Company (Client: LG Soft India) (Aug 2019 - Dec 2020)**
   - Contributed significantly to enhancing early bug detection and stability in consumer products.
   - Championed best practices in software development, boosting efficiency and output quality.
+  - 
 
 
 ## Education
