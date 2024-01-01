@@ -17,6 +17,7 @@ A Discord bot for managing coding challenges, featuring event management, user r
 - **Cloud:** Google Cloud Platform
 - **Tools:** Git, Jenkins, GitHub Actions
 - **Testing:** JUnit, Pytest, Jasmine
+- 
   
 ## Articles read
   <!--START_SECTION:activity-->
