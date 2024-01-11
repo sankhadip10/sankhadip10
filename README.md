@@ -6,7 +6,7 @@ My expertise in Python, Django, and Flask is complemented by my work at LG Soft 
 
 ## Projects
 ### Challenge Tracker Bot
-A Discord bot for managing coding challenges, featuring event management, user registration, progress tracking, and data verification. [Repository](https://github.com/SANKHADIP10/CHALLENGETRACKERBOT)
+A Discord bot for managing coding challenges, featuring event management, user registration, progress tracking, and data verification. [Repository](https://github.com/SANKHADIP10/CHALLENGETRACKERBOT) 
 
 ## Skills 
 - **Languages:** Python, Java
