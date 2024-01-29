@@ -37,7 +37,6 @@ A Discord bot for managing coding challenges, featuring event management, user r
   - Championed best practices in software development, boosting efficiency and output quality.
     
     
-
 ## Education
 - Bachelor's Degree in Information Science and Engineering, Visvesvaraya technological university, 2018
 - Master in Computer Science,Woolf,2022-Present
