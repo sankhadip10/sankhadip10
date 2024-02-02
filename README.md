@@ -19,7 +19,6 @@ A Discord bot for managing coding challenges, featuring event management, user r
 - **Testing:** JUnit, Pytest, Jasmine
   
   
-  
 ## Articles read
   <!--START_SECTION:activity-->
   
