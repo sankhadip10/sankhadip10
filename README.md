@@ -22,6 +22,9 @@ A Discord bot for managing coding challenges, featuring event management, user r
 
 
 
+
+
+
   
 ## Articles read
   <!--START_SECTION:activity-->
