@@ -29,9 +29,11 @@ A Discord bot for managing coding challenges, featuring event management, user r
 ## Articles read
   <!--START_SECTION:activity-->
   
-  <a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/bce65f6827c14f268c508e95fabc9e0a.png?r=4rs" width="400" alt="Sankhadip Das's Dev Card"/></a>
+  <a href="https://app.daily.dev/sankhadipdas10"><img src="https://api.daily.dev/devcards/v2/UTJawqtFVXHi50gT8FlS4.png?r=d46&type=wide" width="652" alt="Sankhadip Das's Dev Card"/></a>
   
   <!--END_SECTION:activity-->
+
+
 
 ## Experience
 - **LG Soft India (Dec 2020 - Jun 2022)**
