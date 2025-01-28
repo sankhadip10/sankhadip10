@@ -1,7 +1,7 @@
 # Hi, I'm Sankhadip Das! 👋
 
 ### About Me
-I am a passionate **Full-Stack Developer** with professional experience in building scalable, high-performance systems and a deep interest in backend development. Over the years, I have honed my skills in **Java**, **Python**, **Spring Boot**, and **Django** through challenging projects and roles, including at **LG Soft India**. Currently, I’m pursuing a **Master's in Computer Science** at Woolf University to deepen my technical expertise.
+I am a passionate **Developer** with professional experience in building scalable, high-performance systems and a deep interest in backend development. Over the years, I have honed my skills in **Java**, **Python**, **Spring Boot**, and **Django** through challenging projects and roles, including at **LG Soft India**. Currently, I’m pursuing a **Master's in Computer Science** at Woolf University to deepen my technical expertise.
 
 ### Projects
 
