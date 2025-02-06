@@ -3,9 +3,6 @@
 ### About Me
 I am a passionate **Developer** with professional experience in building scalable, high-performance systems and a deep interest in backend development. Over the years, I have honed my skills in **Java**, **Python**, **Spring Boot**, and **Django** through challenging projects and roles, including at **LG Soft India**. Currently, I’m pursuing a **Master's in Computer Science** at Woolf University to deepen my technical expertise.
 
-
-
-
 ### Projects
 - **Hotel Booking System**  
   A full-stack hotel booking platform built using **Spring Boot**, **React**, and **PostgreSQL**. It includes features like secure user registration, hotel search, booking management, and an admin panel for venue and user management. Key technologies include **AWS S3** for image storage, **Kafka** for booking requests, **RabbitMQ** for messaging, and **Redis** for caching.  
