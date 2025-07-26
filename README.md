@@ -58,7 +58,7 @@ I'm a passionate **Engineer** with 3+ years of professional experience building 
 
 ## 🔥 Featured Projects
 
-### 🛍️ [Django E-Commerce Backend API](https://github.com/sankhadip10/django-ecommerce-api)
+### 🛍️ [Django E-Commerce Backend API](https://github.com/sankhadip10/Capstone_Proj)
 A comprehensive REST API with **30+ endpoints** featuring:
 - 🔐 JWT Authentication & Razorpay Payment Integration
 - ⚡ **95% performance improvement** with Redis caching
@@ -73,7 +73,7 @@ Full-stack platform built with **Spring Boot**, **React**, and **PostgreSQL**:
 - 🚀 Redis caching for optimal performance
 -->
 
-### 🤖 [Challenge Tracker Bot](https://github.com/sankhadip10/challenge-tracker-bot)
+### 🤖 [Challenge Tracker Bot](https://github.com/sankhadip10/ChallengeTrackerBot)
 Discord bot automating daily coding challenges with:
 - 📅 Event creation and user registration
 - 📊 Progress tracking with web scraping
