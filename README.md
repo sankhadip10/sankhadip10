@@ -1,12 +1,13 @@
 # Hi there, I'm Sankhadip Das! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%7C+React+%7C+Spring+Boot;Building+Scalable+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Developer;Django+%7C+React;Building+Scalable+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** with 3+ years of professional experience building scalable, high-performance systems. Currently pursuing my **Master's in Computer Science** at Woolf University while continuously expanding my technical expertise.
+I'm a passionate **Engineer** with 3+ years of professional experience building scalable, high-performance systems. 
+<!--Currently pursuing my **Master's in Computer Science** at Woolf University while continuously expanding my technical expertise. -->
 
 🔭 **Current Focus**: Microservices Architecture, Cloud-Native Applications, and System Design  
 🌱 **Learning**: Advanced Distributed Systems and Machine Learning  
@@ -64,11 +65,13 @@ A comprehensive REST API with **30+ endpoints** featuring:
 - 🐳 Docker containerization with **80%+ test coverage**
 - 📊 Load testing with Locust & automated email notifications
 
+<!--
 ### 🏨 [Hotel Booking System](https://github.com/sankhadip10/hotel-booking-system)
 Full-stack platform built with **Spring Boot**, **React**, and **PostgreSQL**:
 - ☁️ AWS S3 for image storage
 - 📨 Kafka for booking requests & RabbitMQ for messaging
 - 🚀 Redis caching for optimal performance
+-->
 
 ### 🤖 [Challenge Tracker Bot](https://github.com/sankhadip10/challenge-tracker-bot)
 Discord bot automating daily coding challenges with:
@@ -76,10 +79,13 @@ Discord bot automating daily coding challenges with:
 - 📊 Progress tracking with web scraping
 - 📈 Excel export for reward distribution
 
+<!--
+
 ### 💻 [Codex - Interactive Coding Environment](https://github.com/sankhadip10/codex)
 - 🔥 Firebase authentication
 - ⚡ Real-time code execution with Judge0 API
 - ☁️ Deployed on Google Cloud Platform
+-->
 
 ## 📚 Continuous Learning & Knowledge Sharing
 
@@ -124,8 +130,9 @@ I'm an avid reader and believer in continuous learning. Check out my daily.dev p
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankhaad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankhadip)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankhadip10)
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sankhaad)
-
+-->
 </div>
 
 ---
