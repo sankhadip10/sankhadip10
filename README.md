@@ -113,7 +113,7 @@ I'm an avid reader and believer in continuous learning. Check out my daily.dev p
 
 ## 🎓 Education
 
-- 🎓 **Master's in Computer Science** - Woolf University (2024 - Present)
+- 🎓 **Master's in Computer Science** - Woolf University (2023 - 2025)
 - 🎓 **B.E. in Information Science** - Visvesvaraya Technological University (2018)
 
 ## 🏆 Achievements & Certifications
