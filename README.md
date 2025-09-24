@@ -14,15 +14,12 @@ I'm a passionate **Engineer** with 3+ years of professional experience building 
 💡 **Interests**: Backend Development, API Design, Performance Optimization, and Open Source
 
 ## 💼 Professional Experience
-
 ### **LG Soft India** | Software Engineer
-*Dec 2020 – Jun 2022 | Bengaluru, India*
 - 🚀 Developed team collaboration application using **Django REST Framework**, reducing resource conflicts by **60%**
 - 🔧 Engineered Windows application with **PyQt** for automated WebOS board flashing
 - 🌍 Built multi-language text extraction framework supporting **72 languages** using Tesseract
 
 ### **Chhapolika & Company** | Automation Engineer
-*Aug 2019 – Dec 2020 | Bengaluru, India*
 - 🤖 Automated **1000+ APIs** using pytest, enhancing bug detection in Android devices and TVs
 - 📊 Created performance automation framework with comprehensive Excel reporting
 - ♻️ Refactored **10,000+ scripts** in TAS framework for diverse TV functionalities
